@@ -1,4 +1,10 @@
-![Logo](https://github.com/lucasdalmas/aluraplus/assets/127149468/742d390d-7cdc-4bb2-9fb5-fe8e528abea3)
+<div align="center">
+  <img src="https://github.com/lucasdalmas/aluraplus/assets/127149468/742d390d-7cdc-4bb2-9fb5-fe8e528abea3">
+</div>
+<br>
+
+![banneraluraplus](https://github.com/lucasdalmas/aluraplus/assets/127149468/72e62a36-4615-49ef-b7d5-03877f683100)
+
 # Descrição do projeto
 O projeto Alura Plus é uma pagina de divulgação da plataforma de streaming da Alura.
 
